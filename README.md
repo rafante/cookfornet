@@ -1,16 +1,16 @@
-# cookfornet
+# CookForNet
 
-A new Flutter project.
+Projeto de flutter pra ensinar o jussa a usar Flutter+Firebase easy peasy
 
-## Getting Started
+## Iniciando
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+1)Criar conta no Firebase para a empresa
+2)Criar projeto no Firebase
+3)Criar projeto no Flutter
+4)Abrir o teamviewr no meu celular pro Juscelino ver
+5)Executar o app no meu celular
+6)Configurar app no Firebase - voltando a esse cara
+7)Projeto configurado, executando de novo
+8)Planejar o app
+9)Versionando
+10)Iniciando o desenvolvimento das classes
