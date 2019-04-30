@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "237621940892",
+    "firebase_url": "https://cook-for-net.firebaseio.com",
+    "project_id": "cook-for-net",
+    "storage_bucket": "cook-for-net.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237621940892:android:b377094983629415",
+        "android_client_info": {
+          "package_name": "page.playlines.cookfornet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237621940892-v0c2dd02lt4vkpdtflm02uoj21amgjrr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "page.playlines.cookfornet",
+            "certificate_hash": "89adddb10a8dbf3d7ac1c58dd49b2936e2be86e0"
+          }
+        },
+        {
+          "client_id": "237621940892-c3oqeku42vf3t2gnfit5e1kmrj07u5qn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAob1YGsHrTKFOlBW8KN5MHXCSfjUohA4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237621940892-c3oqeku42vf3t2gnfit5e1kmrj07u5qn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
