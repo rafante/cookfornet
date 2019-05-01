@@ -4,7 +4,8 @@ import 'package:cookfornet/models/componente.dart';
 class Ingrediente extends Componente {
   String tipo;
 
-  Ingrediente(String nome) : super(nome);
+  Ingrediente(String nome, String descricao)
+      : super(nome, descricao: descricao);
 
   @override
   ler() {
@@ -14,8 +15,8 @@ class Ingrediente extends Componente {
 
   @override
   salvar() {
-    var docRef = Firestore.instance.collection('ingredientes').document('aqui');
-
+    var docRef = Firestore.instance.collection('ingredientes').document();
+//
     docRef.setData({
       'nome': this.nome,
       'descricao': this.descricao,
